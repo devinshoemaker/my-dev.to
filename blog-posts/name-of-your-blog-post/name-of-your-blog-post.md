@@ -1,6 +1,6 @@
 ---
 published: false
-title: "Your title"
+title: "CI Test Success"
 cover_image: "https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/master/blog-posts/NAME-OF-YOUR-BLOG-POST/assets/your-asset.png"
 description: "Description of the article"
 tags: tag1, tag2, tag3
