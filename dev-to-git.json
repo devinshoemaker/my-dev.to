@@ -2,5 +2,9 @@
   {
     "id": 221490,
     "relativePathToArticle": "./blog-posts/name-of-your-blog-post/name-of-your-blog-post.md"
+  },
+  {
+    "id": 226187,
+    "relativePathToArticle": "./blog-posts/prettier/prettier.md"
   }
 ]
