@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "How to Configure Prettier to Automate Code Formatting"
 cover_image:
 description: "Using VSCode extensions and pre-commit hooks to automate code formatting with Prettier"
