@@ -39,7 +39,7 @@ npm install --save-dev prettier husky pretty-quick
 
 or
 
-yarn add --dev prettier huskey prett-quick
+yarn add --dev prettier husky pretty-quick
 ```
 
 - `prettier` is the main CLI that will be formatting the code
