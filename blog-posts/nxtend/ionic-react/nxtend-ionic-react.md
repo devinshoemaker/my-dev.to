@@ -15,7 +15,7 @@ canonical_url:
 - Usage
 - Future Development
   - Libraries
-    - One of the next features that I will be working on is the ability to generate an Ionic React library. 
+    - One of the next features that I will be working on is the ability to generate an Ionic React library.
   - Pages
     - The Ionic CLI offers a `page` schematic for Angular applications, so I intend to offer similar functionality for this plugin.
   - Starters
