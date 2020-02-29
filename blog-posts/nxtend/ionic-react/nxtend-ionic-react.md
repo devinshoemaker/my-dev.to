@@ -1,8 +1,8 @@
 ---
 published: false
-title: "Developing Ionic React Apps in Nx with @nxtend/ionic-react"
+title: "Developing Ionic React Apps in an Nx Workspace with @nxtend/ionic-react"
 cover_image:
-description: "Using the Nx plugin @nxtend/ionic-react to develop Ionic React applications in an Nx workspace"
+description: "@nxtend/ionic-react is an Nx plugin that allows you to generate Ionic React applications in an Nx workspace"
 tags: ionic, react, nx, webdev
 series:
 canonical_url:
