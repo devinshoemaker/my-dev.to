@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Developing Ionic React Apps in an Nx Workspace with @nxtend/ionic-react"
 cover_image:
 description: "@nxtend/ionic-react is an Nx plugin that allows you to generate Ionic React applications in an Nx workspace"
