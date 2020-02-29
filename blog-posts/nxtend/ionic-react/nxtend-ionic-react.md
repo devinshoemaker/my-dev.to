@@ -8,25 +8,6 @@ series:
 canonical_url:
 ---
 
-# Outline
-
-- Introduction
-- Background and Motivation
-- Usage
-- Future Development
-  - Libraries
-    - One of the next features that I will be working on is the ability to generate an Ionic React library.
-  - Pages
-    - The Ionic CLI offers a `page` schematic for Angular applications, so I intend to offer similar functionality for this plugin.
-  - Starters
-    - The Ionic CLI allows you to generate a new application with one of several starter templates. Over time, I intend to add support for each of these official templates.
-  - Plugins
-    - `@nxtend/ionic-react` is just the beginning. I have plans for entirely new Nx plugins that I will publish under the `@nxtend` scope, but you'll have to stay tuned for more information on that. 😁
-- Conclusion
-  - I have had an amazing time working with Nx and schematics and I can't wait to iterate on this project
-  - If anyone finds an issue with the project, or has a suggestion, don't hesitate to reach out on GitHub.
-- Resources
-
 I am extremely excited to announce the release of my new [Nx](https://nx.dev) plugin `@nxtend/ionic-react`. With this plugin, it is easier than ever to develop [Ionic React](https://ionicframework.com/docs/react/your-first-app) applications in an Nx workspace.
 
 # Background and Motivation
@@ -82,6 +63,30 @@ Options:
   --dryRun                undefined
   --help                  Show available options for project target.
 ```
+
+# Future Development
+
+I have had a great time working on this project, and I plan to immediately begin iterating on it.
+
+## Libraries
+
+One of the next features that I will be working on is the ability to generate a publishable Ionic React library. Currently, if Ionic components are used in a publishable `@nrwl/react` library then it will error out. I believe that I have identified the issue, and will be testing a fix soon.
+
+## Pages
+
+The Ionic CLI offers a `page` schematic for Angular applications, so I intend to offer similar functionality for this plugin.
+
+## Additonal Starters
+
+The Ionic CLI allows you to generate a new application with one of several starter templates. Over time, I intend to add support for each of these official templates.
+
+## Additional Plugins
+
+`@nxtend/ionic-react` is just the beginning. I have plans for entirely new Nx plugins that I will publish under the `@nxtend` scope, but you'll have to stay tuned for more information on that. 😁
+
+# Wrapping Up
+
+I have had an amazing time working with Nx and schematics and I can't wait to iterate on this project. If anyone finds an issue with the project or has a suggestion, don't hesitate to file an issue on GitHub.
 
 # Resources
 
