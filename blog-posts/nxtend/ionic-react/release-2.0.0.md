@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Release @nxtend/ionic-react 2.0.0"
 cover_image:
 description: "Bugs have been fixed, dependencies have been updated, and even Ionic has made updates to their starter templates"
