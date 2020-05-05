@@ -14,5 +14,9 @@
   {
     "id": 321827,
     "relativePathToArticle": "./blog-posts/nxtend/ionic-react/release-2.0.0.md"
+  },
+  {
+    "id": 328276,
+    "relativePathToArticle": "./blog-posts/nx-plugin/adding-deps.md"
   }
 ]
