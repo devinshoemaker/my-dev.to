@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Building an Nx Plugin to Add Dependencies to a Project"
 cover_image:
 description: "Learn how to build an Nx Plugin that adds dependencies to a project"
