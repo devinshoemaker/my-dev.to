@@ -18,5 +18,9 @@
   {
     "id": 328276,
     "relativePathToArticle": "./blog-posts/nx-plugin/adding-deps.md"
+  },
+  {
+    "id": 329242,
+    "relativePathToArticle": "./blog-posts/nx-plugin/ng-add-schematic.md"
   }
 ]
