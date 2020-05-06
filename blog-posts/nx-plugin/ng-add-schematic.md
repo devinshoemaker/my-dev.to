@@ -52,7 +52,7 @@ First, you'll want to edit `collection.json` and add a new schematic named `init
 }
 ```
 
-Similar to other schematics, you can add flags and user prompts within the `schema.json` file defined above using the `properties` object: 
+Similar to other schematics, you can add flags and user prompts within the `schema.json` file defined above using the `properties` object:
 
 ```
 "properties": {
