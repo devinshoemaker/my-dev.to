@@ -3,7 +3,7 @@ published: false
 title: "Creating an ng add Schematic for an Nx Plugin"
 cover_image:
 description: "Learn how to build an Nx Plugin that supports `ng add`"
-tags: nx, nxplugins, monorepo, webdev
+tags: nx, schematics, monorepo, webdev
 series:
 canonical_url:
 ---
