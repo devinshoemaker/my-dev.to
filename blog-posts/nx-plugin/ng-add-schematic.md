@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Creating an ng add Schematic for an Nx Plugin"
 cover_image:
 description: "Learn how to build an Nx Plugin that supports `ng add`"
