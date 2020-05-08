@@ -26,5 +26,9 @@
   {
     "id": 334326,
     "relativePathToArticle": "./blog-posts/nx-plugin/external-schematics.md"
+  },
+  {
+    "id": 340125,
+    "relativePathToArticle": "./blog-posts/nx-plugin/extending-schematics.md"
   }
 ]
