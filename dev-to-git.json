@@ -22,5 +22,9 @@
   {
     "id": 329242,
     "relativePathToArticle": "./blog-posts/nx-plugin/ng-add-schematic.md"
+  },
+  {
+    "id": 334326,
+    "relativePathToArticle": "./blog-posts/nx-plugin/external-schematics.md"
   }
 ]
