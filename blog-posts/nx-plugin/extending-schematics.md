@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Extending Schematics in an Nx Plugin"
 cover_image:
 description: "Build an Nx Plugin that extends a different libraries schematics"
