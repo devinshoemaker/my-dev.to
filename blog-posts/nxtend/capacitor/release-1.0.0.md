@@ -93,4 +93,3 @@ I highly recommend looking at the [official Capacitor documentation](https://cap
 [Capacitor](https://capacitor.ionicframework.com/docs/)<br>
 [@nxtend/ionic-react](https://github.com/devinshoemaker/nxtend/tree/master/libs/ionic-react)
 [@nxtend/capacitor](https://github.com/devinshoemaker/nxtend/tree/master/libs/capacitor)
-
