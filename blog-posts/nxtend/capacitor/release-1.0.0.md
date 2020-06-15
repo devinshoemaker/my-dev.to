@@ -89,7 +89,7 @@ I highly recommend looking at the [official Capacitor documentation](https://cap
 
 # Resources
 
-[Ionic Framework](https://ionicframework.com/docs)<br>
-[Capacitor](https://capacitor.ionicframework.com/docs/)<br>
+[Ionic Framework](https://ionicframework.com/docs)
+[Capacitor](https://capacitor.ionicframework.com/docs/)
 [@nxtend/ionic-react](https://github.com/devinshoemaker/nxtend/tree/master/libs/ionic-react)
 [@nxtend/capacitor](https://github.com/devinshoemaker/nxtend/tree/master/libs/capacitor)
