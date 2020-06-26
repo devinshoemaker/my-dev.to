@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "@nxtend/ionic-react 2.2.0"
 cover_image:
 description:
