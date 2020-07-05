@@ -56,9 +56,9 @@ nx generate @nxtend/capacitor:capacitor-project mobile-app-cap --project mobile-
 Now that a Capacitor project has been added to your Nx workspace you can begin adding support for native platforms. Currently, Capacitor supports Android and iOS with Electron support being in beta.
 
 ```
-nx generate @nxtend/capacitor:add {native platform} --project {Capacitor project name}
+nx run {Capacitor project name}:add {native platform}
 
-nx generate @nxtend/capacitor:add android --project mobile-app-cap
+nx run mobile-app-cap:add android
 ```
 
 ## Sync Native Platform
