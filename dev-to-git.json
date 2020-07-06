@@ -42,5 +42,9 @@
   {
     "id": 346211,
     "relativePathToArticle": "./blog-posts/nx/github-actions.md"
+  },
+  {
+    "id": 384931,
+    "relativePathToArticle": "./blog-posts/nx/react-cli-tooling.md"
   }
 ]
