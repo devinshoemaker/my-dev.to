@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "Build Cross-Platform Applications in a Monorepo with Nx, Ionic, and Capacitor"
 cover_image:
 description: "Build cross-plaform applications in an Nx monorepo workspace using Ionic and Capacitor Nx community plugins"
