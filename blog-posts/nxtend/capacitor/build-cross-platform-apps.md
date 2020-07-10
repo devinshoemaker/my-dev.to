@@ -20,7 +20,36 @@ Capacitor is developed by the Ionic team but it does not require an Ionic projec
 
 While the officially Capacitor CLI does not work well with an Nx workspace, I have tried to match the functionality with the plugin as much as possible.
 
-The `@nxtend/capacitor` plugin will be added to your workspace and a Capacitor project will be automatically generated with a new `@nxtend/ionic-react` application. However, you can add Capacitor to an existing project.
+## Generate Ionic React App with Capacitor
+
+First, you need to initialize the `@nxtend/ionic-react` plugin:
+
+```
+# Angular CLI
+ng add @nxtend/ionic-react
+```
+
+```
+# Nx CLI
+
+# npm
+npm install --save-dev --exact @nxtend/ionic-react
+
+# yarn
+yarn add --save-dev --exact @nxtend/ionic-react
+
+nx generate @nxtend/ionic-react:init
+```
+
+Once the plugin has been added to your Nx workspace you can generate an Ionic React application with Capacitor:
+
+```
+nx generate @nxtend/ionic-react:application {Ionic React application name} --capacitor true
+
+nx generate @nxtend/ionic-react:application mobile-app --capacitor true
+```
+
+The `@nxtend/capacitor` plugin will be added to your workspace and a Capacitor project will be automatically generated with a new `@nxtend/ionic-react` application if you do not specity the `--capacitor` flag. However, you can alsoadd Capacitor to an existing project.
 
 ## Add Capacitor to Existing Project
 
