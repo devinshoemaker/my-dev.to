@@ -1,6 +1,6 @@
 ---
 published: true
-title: "@nxtend/ionic-react 3.0.2"
+title: '@nxtend/ionic-react 3.0.2'
 cover_image:
 description:
 tags: ionic, react, nx, webdev
