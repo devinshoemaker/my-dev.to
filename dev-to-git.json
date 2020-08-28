@@ -32,6 +32,10 @@
     "relativePathToArticle": "./blog-posts/nxtend/capacitor/build-cross-platform-apps.md"
   },
   {
+    "id": 437258,
+    "relativePathToArticle": "./blog-posts/nxtend/capacitor/release-1.1.0.md"
+  },
+  {
     "id": 328276,
     "relativePathToArticle": "./blog-posts/nx-plugin/adding-deps.md"
   },
