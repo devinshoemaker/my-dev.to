@@ -17,7 +17,6 @@ The first thing to change from a standard Node.js workflow is the parameters pas
 ```
 - uses: actions/checkout@v2
   with:
-    ref: ${{ github.event.pull_request.head.ref }}
     fetch-depth: 0
 ```
 
