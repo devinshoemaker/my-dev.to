@@ -28,6 +28,10 @@
     "relativePathToArticle": "./blog-posts/nxtend/ionic-react/release-3.0.3.md"
   },
   {
+    "id": 456201,
+    "relativePathToArticle": "./blog-posts/nxtend/ionic-react/release-3.1.0.md"
+  },
+  {
     "id": 356073,
     "relativePathToArticle": "./blog-posts/nxtend/capacitor/build-cross-platform-apps.md"
   },
