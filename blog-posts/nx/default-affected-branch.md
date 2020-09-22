@@ -2,7 +2,7 @@
 published: true
 title: "Change Nx Default Affected Branch to Main"
 cover_image:
-description: "How to run Nx affected commands in a GitHub Action workflow"
+description:
 tags: nx, devops, monorepo, webdev
 series:
 canonical_url:
