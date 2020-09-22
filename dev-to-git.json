@@ -62,5 +62,9 @@
   {
     "id": 384931,
     "relativePathToArticle": "./blog-posts/nx/react-cli-tooling.md"
+  },
+  {
+    "id": 462358,
+    "relativePathToArticle": "./blog-posts/nx/default-affected-branch.md"
   }
 ]
