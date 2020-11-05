@@ -40,6 +40,10 @@
     "relativePathToArticle": "./blog-posts/nxtend/capacitor/release-1.1.0.md"
   },
   {
+    "id": 506661,
+    "relativePathToArticle": "./blog-posts/nxtend/capacitor/release-2.0.2.md"
+  },
+  {
     "id": 328276,
     "relativePathToArticle": "./blog-posts/nx-plugin/adding-deps.md"
   },
