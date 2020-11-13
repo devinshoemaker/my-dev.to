@@ -8,6 +8,10 @@
     "relativePathToArticle": "./blog-posts/prettier/prettier.md"
   },
   {
+    "id": 514066,
+    "relativePathToArticle": "./blog-posts/nxtend/ionic-angular/release-1.0.0.md"
+  },
+  {
     "id": 271244,
     "relativePathToArticle": "./blog-posts/nxtend/ionic-react/nxtend-ionic-react.md"
   },
